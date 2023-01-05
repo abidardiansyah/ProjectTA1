@@ -1,0 +1,11 @@
+- Mengapa mengambil judul tsb.
+	Karena setelah saya lakukan penelitian pada Pt Victory International Futures Semarang saya mendapati 	permasalahan yang kerap menjadi keluh kesah bagi manager dan marketing, yang pertama bagi manager itu 	sendiri tidak dapat melakukan pemantauan data pada marketing secara realtime apabila marketing berada di 	luar kota, kemudian permasalah pada marketing mereka kesusahan dan harus bolak balik ke kantor untuk 		melakukan laporan progresnya apalagi jika berada diluar kota
+- mengapa menggunakan metode Web Engineering
+	Menurut penelitian sebelumnya dan dari beberapa journal yg sudah saya baca web engineering ini merupakan 	model perancangan perangkat lunak yang digunakan untuk membangun sistem berbasis website dengan kualitas 	tinggi
+	tahapan
+	a)	Customer communication 
+	b)	Planning 
+	c)	Modeling (Pemodelan) 
+	d)	Construction (kontruksi) 
+	e)	Delivery & Feedback
+ 
