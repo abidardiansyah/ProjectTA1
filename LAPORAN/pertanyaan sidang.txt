@@ -1,11 +1,30 @@
 - Mengapa mengambil judul tsb.
 	Karena setelah saya lakukan penelitian pada Pt Victory International Futures Semarang saya mendapati 	permasalahan yang kerap menjadi keluh kesah bagi manager dan marketing, yang pertama bagi manager itu 	sendiri tidak dapat melakukan pemantauan data pada marketing secara realtime apabila marketing berada di 	luar kota, kemudian permasalah pada marketing mereka kesusahan dan harus bolak balik ke kantor untuk 		melakukan laporan progresnya apalagi jika berada diluar kota
 - mengapa menggunakan metode Web Engineering
-	Menurut penelitian sebelumnya dan dari beberapa journal yg sudah saya baca web engineering ini merupakan 	model perancangan perangkat lunak yang digunakan untuk membangun sistem berbasis website dengan kualitas 	tinggi
+	Menurut penelitian sebelumnya dan dari beberapa journal yg sudah saya baca web engineering ini merupakan 	model perancangan perangkat lunak yang digunakan untuk membangun sistem berbasis website yang berkualitas
 	tahapan
 	a)	Customer communication 
 	b)	Planning 
 	c)	Modeling (Pemodelan) 
 	d)	Construction (kontruksi) 
 	e)	Delivery & Feedback
+
+- Tahapan web engineering
+1.	Customer communication.
+Komunikasi yg mengacu pada proses wawancara dengan manager dan marketing PT Victory International Futures Semarang untuk menganalisa permasalahan yang terjadi, yang akan digunakan untuk mengetahui apa yang diperlukan pada rancangan sistem aplikasi yang akan dibuat.
+2.	Planning. 
+Setelah itu, rancangan proyek pengembangan aplikasi web ditentukan dengan mengumpulkan teori teori terdahulu, kemudian menentukan waktu pekerjaan dan sub-pekerjaan yang ditentukan hingga bahasa pemrograman yang digunakan.
+3.	Modeling
+		Tujuan dari kegiatan ini adalah untuk memperjelas apa yang benar-benar diperlukan dalam aplikasi yang akan dibangun dan solusi apa yang ditawarkan agar sesuai dengan hasil analisis dan pengumpulan data.
+4.	Construction
+		Pengembangan aplikasi web menggabungkan perkembangan teknologi dengan alat pengembangan web yang ada. Singkatnya, pemilihan alat yang efektif namun dapat beradaptasi dengan teknologi yang berkembang.
+5.	Deployment
+	Tahap Perancangan aplikasi web dibuat untuk membantu dan mempermudah  pekerjaan, setelah itu dijalankan pengguna dan kemudian dievaluasi secara berkala untuk menginformasikan tim pengembangan dan membuat perubahan pada aplikasi web jika diperlukan.
+
+
+1.	User Acceptance Testing (UAT)
+	Pada pengujian pertama menggunakan metode UAT atau bisa disebut juga User Acceptance Testing yang dimana pengujian ini 	dilakukan oleh pengguna dengan melakukan berbagai macam uji coba dan 	melakukan beberapa tahapan proses yaitu perencanaan, scenario tes, 	ksekusi, dan keputusan akhir.
+2.	Black-box Testing
+	Metode pengujian ini dilakukan pada fungsionalitas input dan output sistem. Ketika dilakukan pengetesan makan akan diketahui bagian mana yang terdapat bug atau error pada saat dilakukan pengujian
+
  
